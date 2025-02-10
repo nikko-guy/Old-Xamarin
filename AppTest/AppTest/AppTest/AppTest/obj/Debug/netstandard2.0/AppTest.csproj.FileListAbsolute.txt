@@ -1,0 +1,14 @@
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\bin\Debug\netstandard2.0\AppTest.deps.json
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\bin\Debug\netstandard2.0\AppTest.dll
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\bin\Debug\netstandard2.0\ref\AppTest.dll
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\bin\Debug\netstandard2.0\AppTest.pdb
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.AssemblyInfoInputs.cache
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.AssemblyInfo.cs
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.dll
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\ref\AppTest.dll
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.pdb
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\AppTest.csprojAssemblyReference.cache
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\Views\PlaylistDetailPage.xaml.g.cs
+E:\Programming\Xamarin\AppTest\AppTest\AppTest\AppTest\obj\Debug\netstandard2.0\Views\PlaylistsPage.xaml.g.cs
